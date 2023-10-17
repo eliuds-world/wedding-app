@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935990424363",
+    "project_id": "wedd-app-8dbed",
+    "storage_bucket": "wedd-app-8dbed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935990424363:android:b0cd8ab56f40fb19648b6e",
+        "android_client_info": {
+          "package_name": "com.example.wedding2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmmZ8iSJvFwguGA6tid568PhJSHjxTKfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
